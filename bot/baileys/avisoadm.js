@@ -3,10 +3,9 @@ const { fetchProfilePictureUrl } = pkg;
 
 // Defina seus números de WhatsApp
 const yourNumbers = [
-    // '559193670996@s.whatsapp.net',  // Vania
-    // '559193310860@s.whatsapp.net'
-    '5514981930016@s.whatsapp.net',  //bot
-    '558599495181@s.whatsapp.net'
+    '559193670996@s.whatsapp.net',  // Vania
+    '559193310860@s.whatsapp.net',  // Vania
+    '5514981930016@s.whatsapp.net'  //bot
 ];
 
 // Função para lidar com atualizações de participantes de grupo

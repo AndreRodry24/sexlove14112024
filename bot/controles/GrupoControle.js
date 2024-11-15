@@ -342,8 +342,8 @@ async filtroAntiLink(c, mensagemBaileys, botInfo) {
         const { id_grupo, admins, bot_admin } = { ...grupo };
 
         const donoDoGrupo = [
-            // '559193670996@s.whatsapp.net', // ID do dono do grupo VANIA
-            // '559193310860@s.whatsapp.net'
+            '559193670996@s.whatsapp.net', // ID do dono do grupo VANIA
+            '559193310860@s.whatsapp.net'
         ];
 
         // Verifica se é uma mensagem de grupo
