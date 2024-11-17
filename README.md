@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://img95.pixhost.to/images/1083/472612217_8876.jpg" width="350" height="350"/>
 </p>
-<h1 align="center">🤖 LBot - Robô para WhatsApp 🤖</h1>
+<h1 align="center">🤖 sexlove14112024 🤖</h1>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/victorsouzaleal/lbot-whatsapp"><img src="https://img.shields.io/codefactor/grade/github/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="CodeFactor" /></a>
 </p>
